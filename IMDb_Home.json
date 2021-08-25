@@ -1,0 +1,280 @@
+{
+    "advertisement" : {
+        "banner" : "https://imdb.com/ad/kaalipeeli/banner.jpg",
+        "url" : "https://www.imdb.com/title/tt15205022/?ref_=fn_al_tt_1"
+    },
+    "quicktrailers" : [
+        {
+            "title" : "Emily Hampshire Talks Getting Gothic in &quot;Chapelwaite&quot;",
+            "subtitle" : "Meet Your IMDb Guest Editor",
+            "thumbnail" : "https://imdb.com/thumbnail/ehrggcw.jpg",
+            "duration" : "2:25",
+            "url" : "https://imdb.com/video/ehrggcwv"
+        },
+        {
+            "title" : "&quot;Chapelwaite&quot; Star Emily Hamshire Answers Fan Qs",
+            "subtitle" : "Her &quot;Schitt's Creek&quot; Keepsake and More",
+            "thumbnail" : "https://imdb.com/thumbnail/cwsewqs.jpg",
+            "duration" : "3:40",
+            "url" : "https://imdb.com/video/cwsewqsv"
+        },
+        {
+            "title" : "'Eternals'",
+            "subtitle" : "Watch the Final Trailer",
+            "thumbnail" : "https://imdb.com/thumbnail/ewtft.jpg",
+            "duration" : "2:52",
+            "url" : "https://imdb.com/video/ewtftv"
+        },
+        {
+            "title" : "Sean Penn and Dylan Penn Ask Each Other Anything",
+            "subtitle" : "Watch the Father-Daughter Convo",
+            "thumbnail" : "https://imdb.com/thumbnail/spdpaeoa.jpg",
+            "duration" : "3:16",
+            "url" : "https://imdb.com/video/spdpaeoav"
+        }
+    ],
+    "featuredtoday" : [
+        {
+            "title" : "Indian Movies and Shows Releasing this Weekend",
+            "thumbnail" : "https://imdb.com/thumbnail/imsrtw.jpg",
+            "content" : "List",
+            "url" : "https://www.imdb.com/india/movies-shows-releasing-this-weekend/ls507883840/?ref_=hm_edcft_mobi_IN_new_wk_1_t"
+        },
+        {
+            "title" : "LGBTQ+ Power Couples of Hollywood",
+            "thumbnail" : "https://imdb.com/thumbnail/lpcoh.jpg",
+            "content" : "Photos",
+            "url" : "https://www.imdb.com/gallery/rg3163593472/mediaviewer/rm3426989313?ref_=hm_edcft_wot_lgbtq_2_i"
+        },
+        {
+            "title" : "The Best Upcoming Horror Movies",
+            "thumbnail" : "https://imdb.com/thumbnail/tbuhm.jpg",
+            "content" : "List",
+            "url" : "https://www.imdb.com/list/ls500571120/mediaviewer/rm1777725953?ref_=hm_edcft_ft_horror_pks_c_3_i"
+        }
+    ],
+    "watchlist" : [
+        {
+            "title" : "Free Guy",
+            "thumbnail" : "https://imdb.com/thumbnail/fg.jpg",
+            "rating" : 7.6,
+            "url" : "https://www.imdb.com/title/tt6264654/?ref_=hm_wls_tt_i_1",
+            "trailerurl" : "https://www.imdb.com/video/vi606322713/?ref_=hm_wls_tr_vp_1"
+        }
+    ],
+    "weeklytop" : [
+        {
+            "title" : "Shershaah",
+            "thumbnail" : "https://imdb.com/thumbnail/shers.jpg",
+            "rating" : 8.9,
+            "url" : "https://www.imdb.com/title/tt10295212/?ref_=hm_fanfav_tt_i_1_pd_fp1",
+            "trailerurl" : "https://www.imdb.com/video/vi712687641/?ref_=hm_fanfav_tr_vp_1_pd_fp1"
+        },
+        {
+            "title" : "The Suicide Squad",
+            "thumbnail" : "https://imdb.com/thumbnail/tss.jpg",
+            "rating" : 7.4,
+            "url" : "https://www.imdb.com/title/tt6334354/?ref_=hm_fanfav_tt_i_2_pd_fp1",
+            "trailerurl" : "https://www.imdb.com/video/vi605208601/?ref_=hm_fanfav_tr_vp_2_pd_fp1"
+        },
+        {
+            "title" : "Free Guy",
+            "thumbnail" : "https://imdb.com/thumbnail/fg.jpg",
+            "rating" : 7.6,
+            "url" : "https://www.imdb.com/title/tt6264654/?ref_=hm_fanfav_tt_i_3_pd_fp1",
+            "trailerurl" : "https://www.imdb.com/video/vi606322713/?ref_=hm_fanfav_tr_vp_3_pd_fp1"
+        },
+        {
+            "title" : "Loki",
+            "thumbnail" : "https://imdb.com/thumbnail/lokise.jpg",
+            "rating" : 8.4,
+            "url" : "https://www.imdb.com/title/tt9140554/?ref_=hm_fanfav_tt_i_4_pd_fp1",
+            "trailerurl" : "https://www.imdb.com/video/vi74498073/?ref_=hm_fanfav_tr_vp_4_pd_fp1"
+        }
+    ],
+    "watchguide" : "https://www.imdb.com/what-to-watch/watch-guides/?ref_=hm_watch_wchgd",
+    "mostpopular" : "https://www.imdb.com/what-to-watch/popular/?ref_=hm_watch_pop",
+    "streamingguide" : [
+        {
+            "primevideo" : [
+                {
+                    "title" : "Shershaah",
+                    "thumbnail" : "https://imdb.com/thumbnail/shers.jpg",
+                    "rating" : 8.9,
+                    "url" : "https://www.imdb.com/title/tt10295212/?ref_=hm_fanfav_tt_i_1_pd_fp1",
+                    "trailerurl" : "https://www.imdb.com/video/vi712687641/?ref_=hm_fanfav_tr_vp_1_pd_fp1"
+                },
+                {
+                    "title" : "The Suicide Squad",
+                    "thumbnail" : "https://imdb.com/thumbnail/tss.jpg",
+                    "rating" : 7.4,
+                    "url" : "https://www.imdb.com/title/tt6334354/?ref_=hm_fanfav_tt_i_2_pd_fp1",
+                    "trailerurl" : "https://www.imdb.com/video/vi605208601/?ref_=hm_fanfav_tr_vp_2_pd_fp1"
+                }
+            ],
+            "netflix" : [
+                {
+                    "title" : "Beckett",
+                    "thumbnail" : "https://imdb.com/thumbnail/beckettthum.jpg",
+                    "rating" : 5.6,
+                    "url" : "https://www.imdb.com/title/tt10230994/?ref_=hm_stp_netflix_tt_i_1",
+                    "trailerurl" : "https://www.imdb.com/video/vi2283520025/?ref_=hm_stp_netflix_tr_vp_1"
+                },
+                {
+                    "title" : "The Walking Dead",
+                    "thumbnail" : "https://imdb.com/thumbnail/twdthu.jpg",
+                    "rating" : 8.2,
+                    "url" : "https://www.imdb.com/title/tt1520211/?ref_=hm_stp_netflix_tt_i_2",
+                    "trailerurl" : "https://www.imdb.com/video/vi3631857689/?ref_=hm_stp_netflix_tr_vp_2"
+                }
+            ],
+            "hotstar" : [
+                {
+                    "title" : "Game of Thrones",
+                    "thumbnail" : "https://imdb.com/thumbnail/gotthu.jpg",
+                    "rating" : 9.2,
+                    "url" : "https://www.imdb.com/title/tt0944947/?ref_=hm_stp__tt_i_1",
+                    "trailerurl" : "https://www.imdb.com/video/vi59490329/?ref_=hm_stp__tr_vp_1"
+                },
+                {
+                    "title" : "American Horror Story",
+                    "thumbnail" : "https://imdb.com/thumbnail/ahsthu.jpg",
+                    "rating" : 8.0,
+                    "url" : "https://www.imdb.com/title/tt1844624/?ref_=hm_stp_hotstar_tt_i_2",
+                    "trailerurl" : "https://www.imdb.com/video/vi3243294745/?ref_=hm_stp_hotstar_tr_vp_2"
+                }
+            ],
+            "mxplayer" : [
+                {
+                    "title" : "A Quiet Place",
+                    "thumbnail" : "https://imdb.com/thumbnail/aqpthu.jpg",
+                    "rating" : 7.5,
+                    "url" : "https://www.imdb.com/title/tt6644200/?ref_=hm_stp_mxplayer_tt_i_1",
+                    "trailerurl" : "https://www.imdb.com/video/vi2813771289/?ref_=hm_stp_mxplayer_tr_vp_1"
+                },
+                {
+                    "title" : "The Hitman's Bodygaurd",
+                    "thumbnail" : "https://imdb.com/thumbnail/thbthu.jpg",
+                    "rating" : 6.9,
+                    "url" : "https://www.imdb.com/title/tt1959563/?ref_=hm_stp_mxplayer_tt_i_2",
+                    "trailerurl" : "https://www.imdb.com/video/vi2425141529/?ref_=hm_stp_mxplayer_tr_vp_2"
+                }
+            ]
+        }
+    ],
+    "topboxoffice" : [
+        {
+            "title" : "Free Guy",
+            "bo" : "19M"
+        },
+        {
+            "title" : "PAW Patrol: The Movie",
+            "bo" : "13M"
+        },
+        {
+            "title" : "Jungle Cruise",
+            "bo" : "19M"
+        },
+        {
+            "title" : "Don't Breathe 2",
+            "bo" : "5.1M"
+        },
+        {
+            "title" : "Respect",
+            "bo" : "3.8M"
+        },
+        {
+            "title" : "The Suicide Squad",
+            "bo" : "3.4M"
+        }
+    ],
+    "comingsoon" : [
+        {
+            "title" : "Dune",
+            "releasedate" : "OCT 22",
+            "thumbnail" : "https://imdb.com/thumbnail/dunethu.jpg",
+            "trailerurl" : "https://www.imdb.com/videoplayer/vi3044589593?ref_=hm_cs_i_1",
+            "duration" : "3:34"
+        },
+        {
+            "title" : "Venom: Let There Be Carnage",
+            "releasedate" : "OCT 15",
+            "thumbnail" : "https://imdb.com/thumbnail/vltbcthu.jpg",
+            "trailerurl" : "https://www.imdb.com/videoplayer/vi2523316249?ref_=hm_cs_i_2",
+            "duration" : "2:29"
+        },
+        {
+            "title" : "No Time to Die",
+            "releasedate" : "OCT 8",
+            "thumbnail" : "https://imdb.com/thumbnail/nttdthu.jpg",
+            "trailerurl" : "https://www.imdb.com/videoplayer/vi2074656793?ref_=hm_cs_i_3",
+            "duration" : "2:35"
+        }
+    ],
+    "editorspick" : [
+        {
+            "title" : "The Best TV and Movies to Watch in August",
+            "thumbnail" : "https://imdb.com/thumbnail/tbtmwathu.jpg",
+            "content" : "List",
+            "url" : "https://www.imdb.com/superheroes/best-movies-and-tv-august-2021/ls507021608/mediaviewer/rm1339555329?ref_=hm_edcep_ft_augpks_wtw_1_i"
+        },
+        {
+            "title" : "The Latest Celebrity Photos",
+            "thumbnail" : "https://imdb.com/thumbnail/tlcpthu.jpg",
+            "content" : "Photos",
+            "url" : "https://www.imdb.com/gallery/rg1641716480/mediaviewer/rm495712257/?ref_=hm_edcep_ph_pwl_2_i"
+        },
+        {
+            "title" : "Poll: The Best Martial Arts TV Series",
+            "thumbnail" : "https://imdb.com/thumbnail/ptbmatvsthu.jpg",
+            "content" : "Vote",
+            "url" : "https://www.imdb.com/poll/kNyAA0OgrA8/?ref_=hm_edcep_pls_082121_3_i"
+        }
+    ],
+    "borntoday" : [
+        {
+            "name" : "Melissa McCarthy",
+            "age" : 51,
+            "img" : "https://imdb.com/celebs/mmccarthy.jpg"
+        },
+        {
+            "name" : "Dylan O'Brien",
+            "age" : 30,
+            "img" : "https://imdb.com/celebs/dylanb.jpg"
+        },
+        {
+            "name" : "Chris Pine",
+            "age" : 41,
+            "img" : "https://imdb.com/celebs/chrispine.jpg"
+        }
+    ],
+    "topnews" : [
+        {
+            "title" : "‘The Masked Singer,’ ‘The Simpsons,’ ‘Love Death and Robots’ Among Early, Juried Winners for 2021 Emmys",
+            "date" : "Aug 25",
+            "source" : "Variety - TV News",
+            "thumbnail" : "https://imdb.com/thumbnail/tmstsldrvtvthu.jpg"
+        },
+        {
+            "title" : "Letita Wright Suffers Minor Injury Shooting 'Black Panther 2'",
+            "date" : "Aug 25",
+            "source" : "The Wrap",
+            "thumbnail" : "https://imdb.com/thumbnail/lwsmisbp2thu.jpg"
+        },
+        {
+            "title" : "Sterling K. Brown and Mark Duplass to Star in Sci-Fi Movie ‘Biosphere,’ Directed by Mel Eslyn (Exclusive)",
+            "date" : "Aug 25",
+            "source" : "Variety - Film News",
+            "thumbnail" : "https://imdb.com/thumbnail/skbmsmbdthu.jpg"
+        }
+    ],
+    "recentlviewed" : [
+        {
+            "title" : "Free Guy",
+            "thumbnail" : "https://imdb.com/thumbnail/fg.jpg",
+            "rating" : 7.6,
+            "url" : "https://www.imdb.com/title/tt6264654/?ref_=hm_wls_tt_i_1",
+            "trailerurl" : "https://www.imdb.com/video/vi606322713/?ref_=hm_wls_tr_vp_1"
+        }
+    ]
+}
